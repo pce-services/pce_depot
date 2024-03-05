@@ -1,40 +1,40 @@
 <plugins>
   <pyqgis_plugin name="export_import" version="0.1">
     <description>Exporter via polygone - Importer par couche</description>
-    <homepage>https://github.com/PCEServices/export_import</homepage>
+    <homepage>https://github.com/pce-services/export_import</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>export_import-main.zip</file_name>
-    <download_url>https://github.com/PCEServices/export_import/archive/refs/heads/main.zip</download_url>
+    <download_url>https://github.com/pce-services/export_import/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="calculsio" version="0.1">
     <description>Calcul automatique des FU</description>
-    <homepage>https://github.com/PCEServices/calculsio</homepage>
+    <homepage>https://github.com/pce-services/calculsio</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>calculsio-main.zip</file_name>
-    <download_url>https://github.com/PCEServices/calculsio/archive/refs/heads/main.zip</download_url>
+    <download_url>https://github.com/pce-services/calculsio/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="import_style" version="0.1">
     <description>Importer style</description>
-    <homepage>https://github.com/PCEServices/import_style</homepage>
+    <homepage>https://github.com/pce-services/import_style</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>import_style-main.zip</file_name>
-    <download_url>https://github.com/PCEServices/import_style/archive/refs/heads/main.zip</download_url>
+    <download_url>https://github.com/pce-services/import_style/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="siobuilder" version="0.1">
     <description></description>
-    <homepage>https://github.com/PCEServices/siobuilder</homepage>
+    <homepage>https://github.com/pce-services/siobuilder</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>siobuilder-main.zip</file_name>
-    <download_url>https://github.com/PCEServices/siobuilder/archive/refs/heads/main.zip</download_url>
+    <download_url>https://github.com/pce-services/siobuilder/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
@@ -42,50 +42,50 @@
   <pyqgis_plugin name="refFunctions" version="0.1">
     <description>Provide field calculator function for Reference to other layers/features based on Nathan Woodrow work: 
     http://nathanw.net/2012/11/10/user-defined-expression-functions-for-qgis/</description>
-    <homepage>https://github.com/PCEServices/refFunctions</homepage>
+    <homepage>https://github.com/pce-services/refFunctions</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>refFunctions-main.zip</file_name>
-    <download_url>https://github.com/PCEServices/refFunctions/archive/refs/heads/main.zip</download_url>
+    <download_url>https://github.com/pce-services/refFunctions/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="exportsro" version="0.1">
     <description></description>
-    <homepage>https://github.com/PCEServices/exportsro</homepage>
+    <homepage>https://github.com/pce-services/exportsro</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>exportsro-main.zip</file_name>
-    <download_url>https://github.com/PCEServices/exportsro/archive/refs/heads/main.zip</download_url>
+    <download_url>https://github.com/pce-services/exportsro/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="ca" version="0.1">
     <description></description>
-    <homepage>https://github.com/PCEServices/ca</homepage>
+    <homepage>https://github.com/pce-services/ca</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>ca-main.zip</file_name>
-    <download_url>https://github.com/PCEServices/ca/archive/refs/heads/main.zip</download_url>
+    <download_url>https://github.com/pce-services/ca/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
     <pyqgis_plugin name="copier_cle_primaire" version="0.1">
     <description></description>
-    <homepage>https://github.com/PCEServices/copier_cle_primaire</homepage>
+    <homepage>https://github.com/pce-services/copier_cle_primaire</homepage>
     <author_name>Dylan D'antonio</author_name>
     <file_name>copier_cle_primaire-main.zip</file_name>
-    <download_url>https://github.com/PCEServices/copier_cle_primaire/archive/refs/heads/main.zip</download_url>
+    <download_url>https://github.com/pce-services/copier_cle_primaire/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
     <pyqgis_plugin name="athd" version="0.1">
     <description></description>
-    <homepage>https://github.com/PCEServices/athd</homepage>
+    <homepage>https://github.com/pce-services/athd</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>athd.zip</file_name>
-    <download_url>https://github.com/PCEServices/athd/archive/refs/heads/main.zip</download_url>
+    <download_url>https://github.com/pce-services/athd/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
