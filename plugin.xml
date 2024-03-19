@@ -100,7 +100,6 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-    </pyqgis_plugin>
     <pyqgis_plugin name="generation_etiquette" version="0.1">
     <description></description>
     <homepage>https://github.com/pce-services/generation_etiquette</homepage>
