@@ -85,7 +85,7 @@
     <homepage>https://github.com/pce-services/athd</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>athd.zip</file_name>
-    <download_url>https://github.com/pce-services/athd/archive/refs/heads/master.zip</download_url>
+    <download_url>https://github.com/pce-services/athd/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
