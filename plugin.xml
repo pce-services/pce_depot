@@ -1,5 +1,5 @@
 <plugins>
-  <pyqgis_plugin name="export_import" version="0.1">
+  <pyqgis_plugin name="export_import" version="0.2">
     <description>Exporter via polygone - Importer par couche</description>
     <homepage>https://github.com/pce-services/export_import</homepage>
     <author_name>Romain Lagrange</author_name>
