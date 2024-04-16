@@ -90,7 +90,7 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-    <pyqgis_plugin name="gestionnaire_extensions" version="0.9">
+    <pyqgis_plugin name="gestionnaire_extensions" version="1.0">
     <description></description>
     <homepage>https://github.com/pce-services/gestionnaire_extensions</homepage>
     <author_name>Dylan D'antonio</author_name>
