@@ -110,4 +110,14 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
+  <pyqgis_plugin name="consultation_geo" version="0.1">
+    <description></description>
+    <homepage>https://github.com/pce-services/consultation_geo</homepage>
+    <author_name>Dylan D'antonio</author_name>
+    <file_name>consultation_geo.zip</file_name>
+    <download_url>https://github.com/pce-services/consultation_geo/archive/refs/heads/main.zip</download_url>
+    <qgis_minimum_version>3.0.0</qgis_minimum_version>
+    <experimental>false</experimental>
+    <tags>pce</tags>
+  </pyqgis_plugin>
 </plugins>
