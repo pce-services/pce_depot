@@ -80,7 +80,7 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-    <pyqgis_plugin name="athd" version="0.30">
+    <pyqgis_plugin name="athd" version="0.31">
     <description></description>
     <homepage>https://github.com/pce-services/athd</homepage>
     <author_name>Romain Lagrange</author_name>
