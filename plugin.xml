@@ -39,19 +39,8 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-  <pyqgis_plugin name="refFunctions" version="0.1">
-    <description>Provide field calculator function for Reference to other layers/features based on Nathan Woodrow work: 
-    http://nathanw.net/2012/11/10/user-defined-expression-functions-for-qgis/</description>
-    <homepage>https://github.com/pce-services/refFunctions</homepage>
-    <author_name>Romain Lagrange</author_name>
-    <file_name>refFunctions-main.zip</file_name>
-    <download_url>https://github.com/pce-services/refFunctions/archive/refs/heads/master.zip</download_url>
-    <qgis_minimum_version>3.0.0</qgis_minimum_version>
-    <experimental>false</experimental>
-    <tags>pce</tags>
-  </pyqgis_plugin>
   <pyqgis_plugin name="exportsro" version="0.1">
-    <description></description>
+    <description>Permet d'exporter un SRO de la BDD</description>
     <homepage>https://github.com/pce-services/exportsro</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>exportsro-main.zip</file_name>
@@ -61,7 +50,7 @@
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="ca" version="0.1">
-    <description></description>
+    <description>Assistant service CA</description>
     <homepage>https://github.com/pce-services/ca</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>ca-main.zip</file_name>
@@ -81,7 +70,7 @@
     <tags>pce</tags>
   </pyqgis_plugin>
     <pyqgis_plugin name="athd" version="0.31">
-    <description></description>
+    <description>Assistant PCE Services pour le projet ATHD</description>
     <homepage>https://github.com/pce-services/athd</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>athd.zip</file_name>
@@ -91,7 +80,6 @@
     <tags>pce</tags>
   </pyqgis_plugin>
     <pyqgis_plugin name="gestionnaire_extensions" version="1.6">
-    <description></description>
     <homepage>https://github.com/pce-services/gestionnaire_extensions</homepage>
     <author_name>Dylan D'antonio</author_name>
     <file_name>gestionnaire_extensions.zip</file_name>
@@ -99,6 +87,7 @@
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
+    <description>Ce plugin simplifie la gestion des plugins en permettant l'installation, la désinstallation et les mises à jour automatiques des plugins de l'organisation via GitHub.<description/>
   </pyqgis_plugin>
     <pyqgis_plugin name="generation_etiquette" version="0.1">
     <description></description>
@@ -121,7 +110,7 @@
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="fibees" version="0.1">
-    <description></description>
+    <description>Synchronisez vos données QGis avec votre application Fibees</description>
     <homepage>https://github.com/pce-services/fibees</homepage>
     <author_name>Dylan D'antonio</author_name>
     <file_name>consultation_geo.zip</file_name>
