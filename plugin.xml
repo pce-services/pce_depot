@@ -87,7 +87,7 @@
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
-    <description>Ce plugin simplifie la gestion des plugins en permettant l'installation, la désinstallation et les mises à jour automatiques des plugins de l'organisation via GitHub.<description/>
+    <description>Ce plugin simplifie la gestion des plugins en permettant l'installation, la désinstallation et les mises à jour automatiques des plugins de l'organisation via GitHub.</description>
   </pyqgis_plugin>
     <pyqgis_plugin name="generation_etiquette" version="0.1">
     <description></description>
