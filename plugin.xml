@@ -39,7 +39,7 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-  <pyqgis_plugin name="exportsro" version="0.1">
+  <pyqgis_plugin name="exportsro" version="0.2">
     <description>Permet d'exporter un SRO de la BDD</description>
     <homepage>https://github.com/pce-services/exportsro</homepage>
     <author_name>Romain Lagrange</author_name>
