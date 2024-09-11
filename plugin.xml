@@ -112,9 +112,19 @@
   <pyqgis_plugin name="fibees" version="0.1">
     <description>Synchronisez vos données QGis avec votre application Fibees</description>
     <homepage>https://github.com/pce-services/fibees</homepage>
-    <author_name>Dylan D'antonio</author_name>
-    <file_name>consultation_geo.zip</file_name>
+    <author_name>Fibees</author_name>
+    <file_name>fibees.zip</file_name>
     <download_url>https://github.com/pce-services/fibees/archive/refs/heads/main.zip</download_url>
+    <qgis_minimum_version>3.0.0</qgis_minimum_version>
+    <experimental>false</experimental>
+    <tags>pce</tags>
+  </pyqgis_plugin>
+  <pyqgis_plugin name="maj_suivi_comac" version="0.1">
+    <description>Mettre à jour le suivi_comac à partir d'un export_brut</description>
+    <homepage>https://github.com/pce-services/maj_suivi_comac</homepage>
+    <author_name>Romain Lagrange</author_name>
+    <file_name>maj_suivi_comac.zip</file_name>
+    <download_url>https://github.com/pce-services/maj_suivi_comac/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
