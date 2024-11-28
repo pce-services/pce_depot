@@ -19,7 +19,7 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-  <pyqgis_plugin name="import_style" version="0.1">
+  <pyqgis_plugin name="import_style" version="1.0">
     <description>Importer style</description>
     <homepage>https://github.com/pce-services/import_style</homepage>
     <author_name>Romain Lagrange</author_name>
