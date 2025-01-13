@@ -119,7 +119,7 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-  <pyqgis_plugin name="maj_suivi_comac" version="0.4">
+  <pyqgis_plugin name="maj_suivi_comac" version="0.5">
     <description>Mettre à jour le suivi_comac à partir d'un export_brut</description>
     <homepage>https://github.com/pce-services/maj_suivi_comac</homepage>
     <author_name>Romain Lagrange</author_name>
