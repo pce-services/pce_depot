@@ -139,4 +139,14 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
+  <pyqgis_plugin name="importkizeogeo" version="0.1">
+    <description>Importer des Kizeo dans Geo</description>
+    <homepage>https://github.com/pce-services/importkizeogeo</homepage>
+    <author_name>Romain Lagrange</author_name>
+    <file_name>importkizeogeo.zip</file_name>
+    <download_url>https://github.com/pce-services/importkizeogeo/archive/refs/heads/main.zip</download_url>
+    <qgis_minimum_version>3.0.0</qgis_minimum_version>
+    <experimental>false</experimental>
+    <tags>pce</tags>
+  </pyqgis_plugin>
 </plugins>
