@@ -149,4 +149,14 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
+  <pyqgis_plugin name="controle_livrable_manche" version="0.1">
+    <description>Contrôler les livrables Altitude DPR et DOE Manche</description>
+    <homepage>https://github.com/pce-services/controle_livrable_manche</homepage>
+    <author_name>Romain Lagrange</author_name>
+    <file_name>controle_livrable_manche.zip</file_name>
+    <download_url>https://github.com/pce-services/controle_livrable_manche/archive/refs/heads/main.zip</download_url>
+    <qgis_minimum_version>3.0.0</qgis_minimum_version>
+    <experimental>false</experimental>
+    <tags>pce</tags>
+  </pyqgis_plugin>
 </plugins>
