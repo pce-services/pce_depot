@@ -159,7 +159,7 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-  <pyqgis_plugin name="filter_kizeo_features" version="0.1">
+  <pyqgis_plugin name="filter_kizeo_features" version="0.2">
     <description>Importer et filtrer la couche boite optique a partir des PDF présents dans le NAS Kizeo</description>
     <homepage>https://github.com/pce-services/filter_kizeo_features</homepage>
     <author_name>Romain Lagrange</author_name>
@@ -169,7 +169,7 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-  <pyqgis_plugin name="export_nc" version="0.1">
+  <pyqgis_plugin name="export_nc" version="0.2">
     <description>Exporter les NC en fichier Excel et les joindre à un mail</description>
     <homepage>https://github.com/pce-services/export_nc</homepage>
     <author_name>Romain Lagrange</author_name>
