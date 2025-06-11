@@ -169,7 +169,7 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-  <pyqgis_plugin name="export_nc" version="0.2">
+  <pyqgis_plugin name="export_nc" version="0.3">
     <description>Exporter les NC en fichier Excel et les joindre à un mail</description>
     <homepage>https://github.com/pce-services/export_nc</homepage>
     <author_name>Romain Lagrange</author_name>
