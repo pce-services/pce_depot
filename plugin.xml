@@ -79,7 +79,7 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-    <pyqgis_plugin name="gestionnaire_extensions" version="2.3">
+    <pyqgis_plugin name="gestionnaire_extensions" version="2.4">
     <homepage>https://github.com/pce-services/gestionnaire_extensions</homepage>
     <author_name>Dylan D'antonio</author_name>
     <file_name>gestionnaire_extensions.zip</file_name>
@@ -175,6 +175,16 @@
     <author_name>Romain Lagrange</author_name>
     <file_name>export_nc.zip</file_name>
     <download_url>https://github.com/pce-services/export_nc/archive/refs/heads/main.zip</download_url>
+    <qgis_minimum_version>3.0.0</qgis_minimum_version>
+    <experimental>false</experimental>
+    <tags>pce</tags>
+  </pyqgis_plugin>
+  <pyqgis_plugin name="c9_checker" version="0.3">
+    <description>Récupération d'information dans les dossiers C9</description>
+    <homepage>https://github.com/pce-services/c9_checker</homepage>
+    <author_name>Romain Lagrange</author_name>
+    <file_name>c9_checker.zip</file_name>
+    <download_url>https://github.com/pce-services/c9_checker/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
