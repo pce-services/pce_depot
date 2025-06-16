@@ -179,7 +179,7 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-  <pyqgis_plugin name="c9_checker" version="0.3">
+  <pyqgis_plugin name="c9_checker" version="0.4">
     <description>Récupération d'information dans les dossiers C9</description>
     <homepage>https://github.com/pce-services/c9_checker</homepage>
     <author_name>Romain Lagrange</author_name>
