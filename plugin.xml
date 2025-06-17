@@ -179,12 +179,12 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-  <pyqgis_plugin name="c9_checker" version="0.4">
-    <description>Récupération d'information dans les dossiers C9</description>
-    <homepage>https://github.com/pce-services/c9_checker</homepage>
+  <pyqgis_plugin name="owf_summary" version="0.1">
+    <description>Créer des résumés Excel des données OWF</description>
+    <homepage>https://github.com/pce-services/owf_summary</homepage>
     <author_name>Romain Lagrange</author_name>
-    <file_name>c9_checker.zip</file_name>
-    <download_url>https://github.com/pce-services/c9_checker/archive/refs/heads/main.zip</download_url>
+    <file_name>owf_summary.zip</file_name>
+    <download_url>https://github.com/pce-services/owf_summary/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
