@@ -179,7 +179,7 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-  <pyqgis_plugin name="owf_summary" version="0.2">
+  <pyqgis_plugin name="owf_summary" version="0.3">
     <description>Créer des résumés Excel des données OWF</description>
     <homepage>https://github.com/pce-services/owf_summary</homepage>
     <author_name>Romain Lagrange</author_name>
