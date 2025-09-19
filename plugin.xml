@@ -189,7 +189,7 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-  <pyqgis_plugin name="owf_manche" version="0.1">
+  <pyqgis_plugin name="owf_manche" version="0.2">
     <description>Mise à jour automatique OWF</description>
     <homepage>https://github.com/pce-services/owf_manche</homepage>
     <author_name>Romain Lagrange</author_name>
