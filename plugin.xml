@@ -1,89 +1,89 @@
 <plugins>
   <pyqgis_plugin name="export_import" version="0.2">
     <description>Exporter via polygone - Importer par couche</description>
-    <homepage>https://github.com/pce-services/export_import</homepage>
+    <homepage>https://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@github.com/pce-services/export_import</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>export_import-main.zip</file_name>
-    <download_url>https://github.com/pce-services/export_import/archive/refs/heads/master.zip</download_url>
+    <download_url>https://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@github.com/pce-services/export_import/archive/refs/heads/master.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="calculsio" version="0.1">
     <description>Calcul automatique des FU</description>
-    <homepage>https://github.com/pce-services/calculsio</homepage>
+    <homepage>https://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@github.com/pce-services/calculsio</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>calculsio-main.zip</file_name>
-    <download_url>https://github.com/pce-services/calculsio/archive/refs/heads/main.zip</download_url>
+    <download_url>https://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@github.com/pce-services/calculsio/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="import_style" version="1.0">
     <description>Importer style</description>
-    <homepage>https://github.com/pce-services/import_style</homepage>
+    <homepage>https://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@github.com/pce-services/import_style</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>import_style-main.zip</file_name>
-    <download_url>https://github.com/pce-services/import_style/archive/refs/heads/master.zip</download_url>
+    <download_url>https://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@github.com/pce-services/import_style/archive/refs/heads/master.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="siobuilder" version="0.1">
     <description></description>
-    <homepage>https://github.com/pce-services/siobuilder</homepage>
+    <homepage>https://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@github.com/pce-services/siobuilder</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>siobuilder-main.zip</file_name>
-    <download_url>https://github.com/pce-services/siobuilder/archive/refs/heads/master.zip</download_url>
+    <download_url>https://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@github.com/pce-services/siobuilder/archive/refs/heads/master.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="exportsro" version="0.1">
     <description>Permet d'exporter un SRO de la BDD</description>
-    <homepage>https://github.com/pce-services/exportsro</homepage>
+    <homepage>https://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@github.com/pce-services/exportsro</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>exportsro-main.zip</file_name>
-    <download_url>https://github.com/pce-services/exportsro/archive/refs/heads/master.zip</download_url>
+    <download_url>https://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@github.com/pce-services/exportsro/archive/refs/heads/master.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="ca" version="0.1">
     <description>Assistant service CA</description>
-    <homepage>https://github.com/pce-services/ca</homepage>
+    <homepage>https://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@github.com/pce-services/ca</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>ca-main.zip</file_name>
-    <download_url>https://github.com/pce-services/ca/archive/refs/heads/master.zip</download_url>
+    <download_url>https://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@github.com/pce-services/ca/archive/refs/heads/master.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
     <pyqgis_plugin name="copier_cle_primaire" version="0.1">
     <description></description>
-    <homepage>https://github.com/pce-services/copier_cle_primaire</homepage>
+    <homepage>https://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@github.com/pce-services/copier_cle_primaire</homepage>
     <author_name>Dylan D'antonio</author_name>
     <file_name>copier_cle_primaire-main.zip</file_name>
-    <download_url>https://github.com/pce-services/copier_cle_primaire/archive/refs/heads/master.zip</download_url>
+    <download_url>https://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@github.com/pce-services/copier_cle_primaire/archive/refs/heads/master.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
     <pyqgis_plugin name="athd" version="0.55">
     <description>Assistant PCE Services pour le projet ATHD</description>
-    <homepage>https://github.com/pce-services/athd</homepage>
+    <homepage>https://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@github.com/pce-services/athd</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>athd.zip</file_name>
-    <download_url>https://github.com/pce-services/athd/archive/refs/heads/main.zip</download_url>
+    <download_url>https://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@github.com/pce-services/athd/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
     <pyqgis_plugin name="gestionnaire_extensions" version="2.4">
-    <homepage>https://github.com/pce-services/gestionnaire_extensions</homepage>
+    <homepage>https://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@github.com/pce-services/gestionnaire_extensions</homepage>
     <author_name>Dylan D'antonio</author_name>
     <file_name>gestionnaire_extensions.zip</file_name>
-    <download_url>https://github.com/pce-services/gestionnaire_extensions/archive/refs/heads/master.zip</download_url>
+    <download_url>https://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@github.com/pce-services/gestionnaire_extensions/archive/refs/heads/master.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
@@ -91,110 +91,120 @@
   </pyqgis_plugin>
     <pyqgis_plugin name="generation_etiquette" version="0.1">
     <description></description>
-    <homepage>https://github.com/pce-services/generation_etiquette</homepage>
+    <homepage>https://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@github.com/pce-services/generation_etiquette</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>generation_etiquette.zip</file_name>
-    <download_url>https://github.com/pce-services/generation_etiquette/archive/refs/heads/master.zip</download_url>
+    <download_url>https://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@github.com/pce-services/generation_etiquette/archive/refs/heads/master.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="consultation_geo" version="0.5">
     <description></description>
-    <homepage>https://github.com/pce-services/consultation_geo</homepage>
+    <homepage>https://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@github.com/pce-services/consultation_geo</homepage>
     <author_name>Dylan D'antonio</author_name>
     <file_name>consultation_geo.zip</file_name>
-    <download_url>https://github.com/pce-services/consultation_geo/archive/refs/heads/main.zip</download_url>
+    <download_url>https://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@github.com/pce-services/consultation_geo/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="fibees" version="0.1">
     <description>Synchronisez vos données QGis avec votre application Fibees</description>
-    <homepage>https://github.com/pce-services/fibees</homepage>
+    <homepage>https://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@github.com/pce-services/fibees</homepage>
     <author_name>Fibees</author_name>
     <file_name>fibees.zip</file_name>
-    <download_url>https://github.com/pce-services/fibees/archive/refs/heads/main.zip</download_url>
+    <download_url>https://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@github.com/pce-services/fibees/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="maj_suivi_comac" version="0.9">
     <description>Mettre à jour le suivi_comac à partir d'un export_brut</description>
-    <homepage>https://github.com/pce-services/maj_suivi_comac</homepage>
+    <homepage>https://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@github.com/pce-services/maj_suivi_comac</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>maj_suivi_comac.zip</file_name>
-    <download_url>https://github.com/pce-services/maj_suivi_comac/archive/refs/heads/main.zip</download_url>
+    <download_url>https://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@github.com/pce-services/maj_suivi_comac/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="filtre" version="0.1">
     <description>Appliquer un filtre à plusieurs couches</description>
-    <homepage>https://github.com/pce-services/filtre</homepage>
+    <homepage>https://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@github.com/pce-services/filtre</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>filtre.zip</file_name>
-    <download_url>https://github.com/pce-services/filtre/archive/refs/heads/main.zip</download_url>
+    <download_url>https://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@github.com/pce-services/filtre/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="importkizeogeo" version="0.1">
     <description>Importer des Kizeo dans Geo</description>
-    <homepage>https://github.com/pce-services/importkizeogeo</homepage>
+    <homepage>https://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@github.com/pce-services/importkizeogeo</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>importkizeogeo.zip</file_name>
-    <download_url>https://github.com/pce-services/importkizeogeo/archive/refs/heads/main.zip</download_url>
+    <download_url>https://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@github.com/pce-services/importkizeogeo/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="controle_livrable_manche" version="0.0.3">
     <description>Contrôler les livrables Altitude DPR et DOE Manche</description>
-    <homepage>https://github.com/pce-services/controle_livrable_manche</homepage>
+    <homepage>https://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@github.com/pce-services/controle_livrable_manche</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>controle_livrable_manche.zip</file_name>
-    <download_url>https://github.com/pce-services/controle_livrable_manche/archive/refs/heads/main.zip</download_url>
+    <download_url>https://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@github.com/pce-services/controle_livrable_manche/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="filter_kizeo_features" version="0.6">
     <description>Importer et filtrer la couche boite optique a partir des PDF présents dans le NAS Kizeo</description>
-    <homepage>https://github.com/pce-services/filter_kizeo_features</homepage>
+    <homepage>https://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@github.com/pce-services/filter_kizeo_features</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>controle_livrable_manche.zip</file_name>
-    <download_url>https://github.com/pce-services/filter_kizeo_features/archive/refs/heads/main.zip</download_url>
+    <download_url>https://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@github.com/pce-services/filter_kizeo_features/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="export_nc" version="0.3">
     <description>Exporter les NC en fichier Excel et les joindre à un mail</description>
-    <homepage>https://github.com/pce-services/export_nc</homepage>
+    <homepage>https://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@github.com/pce-services/export_nc</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>export_nc.zip</file_name>
-    <download_url>https://github.com/pce-services/export_nc/archive/refs/heads/main.zip</download_url>
+    <download_url>https://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@github.com/pce-services/export_nc/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="owf_summary" version="0.3">
     <description>Créer des résumés Excel des données OWF</description>
-    <homepage>https://github.com/pce-services/owf_summary</homepage>
+    <homepage>https://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@github.com/pce-services/owf_summary</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>owf_summary.zip</file_name>
-    <download_url>https://github.com/pce-services/owf_summary/archive/refs/heads/main.zip</download_url>
+    <download_url>https://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@github.com/pce-services/owf_summary/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
   <pyqgis_plugin name="owf_manche" version="0.5">
     <description>Mise à jour automatique OWF</description>
-    <homepage>https://github.com/pce-services/owf_manche</homepage>
+    <homepage>https://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@github.com/pce-services/owf_manche</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>owf_manche.zip</file_name>
-    <download_url>https://github.com/pce-services/owf_manche/archive/refs/heads/main.zip</download_url>
+    <download_url>https://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@github.com/pce-services/owf_manche/archive/refs/heads/main.zip</download_url>
+    <qgis_minimum_version>3.0.0</qgis_minimum_version>
+    <experimental>false</experimental>
+    <tags>pce</tags>
+  </pyqgis_plugin>
+  <pyqgis_plugin name="pce_sync" version="0.2">
+    <description>Création et synchronisation des projets mobiles</description>
+    <homepage>https://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@github.com/pce-services/pce_sync</homepage>
+    <author_name>Romain Lagrange</author_name>
+    <file_name>pce_sync.zip</file_name>
+    <download_url>https://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@github.com/pce-services/pce_sync/archive/refs/heads/main.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
