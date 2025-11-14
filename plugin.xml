@@ -110,7 +110,7 @@
     <homepage>https://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@github.com/pce-services/pce_sync</homepage>
     <author_name>Romain Lagrange</author_name>
     <file_name>pce_sync.zip</file_name>
-    <download_url>https://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@github.com/pce-services/pce_sync/archive/refs/heads/main.zip</download_url>
+    <download_url>https://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@github.com/pce-services/pce_sync/releases/download/v1/pce_sync.zip</download_url>
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
