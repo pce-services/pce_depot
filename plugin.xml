@@ -79,16 +79,6 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-    <pyqgis_plugin name="gestionnaire_extensions" version="2.4">
-    <homepage>https://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@github.com/pce-services/gestionnaire_extensions</homepage>
-    <author_name>Dylan D'antonio</author_name>
-    <file_name>gestionnaire_extensions.zip</file_name>
-    <download_url>https://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@github.com/pce-services/gestionnaire_extensions/archive/refs/heads/master.zip</download_url>
-    <qgis_minimum_version>3.0.0</qgis_minimum_version>
-    <experimental>false</experimental>
-    <tags>pce</tags>
-    <description>Ce plugin simplifie la gestion des plugins en permettant l'installation, la désinstallation et les mises à jour automatiques des plugins de l'organisation via GitHub.</description>
-  </pyqgis_plugin>
     <pyqgis_plugin name="generation_etiquette" version="0.1">
     <description></description>
     <homepage>https://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@github.com/pce-services/generation_etiquette</homepage>
