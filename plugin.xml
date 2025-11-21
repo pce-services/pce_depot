@@ -11,9 +11,7 @@
     <experimental>false</experimental>
     <tags>pce</tags>
   </pyqgis_plugin>
-  
-  
-    <pyqgis_plugin name="athd" version="0.55">
+  <pyqgis_plugin name="athd" version="0.56">
     <description>Assistant PCE Services pour le projet ATHD</description>
     <homepage>https://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@github.com/pce-services/athd</homepage>
     <author_name>Romain Lagrange</author_name>
@@ -22,7 +20,7 @@
     <qgis_minimum_version>3.0.0</qgis_minimum_version>
     <experimental>false</experimental>
     <tags>pce</tags>
-  
+  </pyqgis_plugin>
   <pyqgis_plugin name="consultation_geo" version="0.5">
     <description></description>
     <homepage>https://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@github.com/pce-services/consultation_geo</homepage>
